@@ -5,7 +5,10 @@
 In this digital age, we always download files from internet/application to our computer. The problem is, not everyone has the time to sort files every day. I mean, just look at my personal download directory:
 
 <br>
-**PHOTO 1 GOES HERE**
+<p align="center">
+  <kbd><img src="assets/photo1.jpeg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram
+</p>
 <br>
 <br>
 
@@ -37,38 +40,56 @@ For sorting files in Python, we are going to need several modules, namely:
 First, the modules needed was imported from the library (**os** and **collections**). After that, files were categorized by their type.
 
 <br>
-**PHOTO 2 GOES HERE**
+<p align="center">
+  <kbd><img src="assets/photo2.jpeg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram
+</p>
 <br>
 <br>
 
 Files that has been categorized then double checked to make sure the categorization went smoothly.
 
 <br>
-**PHOTO 3 GOES HERE**
+<p align="center">
+  <kbd><img src="assets/photo3.jpeg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram
+</p>
 <br>
 <br>
 
 Next step is to create the files based on category that was created before, to divide files to folders based on file type. 
 
 <br>
-**PHOTO 4 GOES HERE**
+<p align="center">
+  <kbd><img src="assets/photo4.jpeg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram
+</p>
 <br>
 <br>
 
 Finally, creating loop function to move the files based on their type. To make sure the operation went smoothly, call out print function (move 'file' to 'folder') so that we can see where the file was moved into. Then, end it with a text: Your file has been sorted! 
 
 <br>
-**PHOTO 5 GOES HERE**
+<p align="center">
+  <kbd><img src="assets/photo5.jpeg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram
+</p>
 <br>
 <br>
-**PHOTO 6 GOES HERE**
+<p align="center">
+  <kbd><img src="assets/photo6.jpeg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram
+</p>
 <br>
 <br>
 
 Let's see the final result.
 
 <br>
-**PHOTO 7 GOES HERE**
+<p align="center">
+  <kbd><img src="assets/photo7.jpeg" width=800px> </kbd> <br>
+  Picture 1. Entity Relationship Diagram
+</p>
 <br>
 <br>
 
