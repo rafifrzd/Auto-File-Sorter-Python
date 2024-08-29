@@ -86,4 +86,4 @@ Let's see the final result.
 <br>
 <br>
 
-Et voilà, much cleaner than before. We successfully made a mini file organizer!
+Et voilà, much cleaner than before. We have successfully made a mini file organizer!
