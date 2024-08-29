@@ -7,6 +7,7 @@ In this digital age, we always download files from internet/application to our c
 <br>
 **PHOTO 1 GOES HERE**
 <br>
+<br>
 
 My download folder has 45 files. It used to be so much more (over 1000!), and honestly I've gotten tired of sorting it manually. I mean, who doesn't, right?
 
@@ -38,11 +39,13 @@ First, the modules needed was imported from the library (**os** and **collection
 <br>
 **PHOTO 2 GOES HERE**
 <br>
+<br>
 
 Files that has been categorized then double checked to make sure the categorization went smoothly.
 
 <br>
 **PHOTO 3 GOES HERE**
+<br>
 <br>
 
 Next step is to create the files based on category that was created before, to divide files to folders based on file type. 
@@ -50,19 +53,23 @@ Next step is to create the files based on category that was created before, to d
 <br>
 **PHOTO 4 GOES HERE**
 <br>
+<br>
 
 Finally, creating loop function to move the files based on their type. To make sure the operation went smoothly, call out print function (move 'file' to 'folder') so that we can see where the file was moved into. Then, end it with a text: Your file has been sorted! 
 
 <br>
 **PHOTO 5 GOES HERE**
 <br>
+<br>
 **PHOTO 6 GOES HERE**
+<br>
 <br>
 
 Let's see the final result.
 
 <br>
 **PHOTO 7 GOES HERE**
+<br>
 <br>
 
 Et voilà, much cleaner than before. We successfully made a mini file organizer!
