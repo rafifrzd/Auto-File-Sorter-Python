@@ -29,21 +29,40 @@ For sorting files in Python, we are going to need several modules, namely:
   ** OrderDict(): Remembers the order of inserted value.
   ** DefaultDict(): Provide some default values for the key.
 
+<br>
 
+## **Code**
 
+First, the modules needed was imported from the library (**os** and **collections**). After that, files were categorized by their type.
 
+<br>
+**PHOTO 2 GOES HERE**
+<br>
 
+Files that has been categorized then double checked to make sure the categorization went smoothly.
 
+<br>
+**PHOTO 3 GOES HERE**
+<br>
 
+Next step is to create the files based on category that was created before, to divide files to folders based on file type. 
 
+<br>
+**PHOTO 4 GOES HERE**
+<br>
 
+Finally, creating loop function to move the files based on their type. To make sure the operation went smoothly, call out print function (move 'file' to 'folder') so that we can see where the file was moved into. Then, end it with a text: Your file has been sorted! 
 
+<br>
+**PHOTO 5 GOES HERE**
+<br>
+**PHOTO 6 GOES HERE**
+<br>
 
+Let's see the final result.
 
+<br>
+**PHOTO 7 GOES HERE**
+<br>
 
-
-
-
-
-
-
+Et voilà, much cleaner than before. We successfully made a mini file organizer!
