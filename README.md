@@ -7,7 +7,6 @@ In this digital age, we always download files from internet/application to our c
 <br>
 <p align="center">
   <kbd><img src="assets/photo1.jpeg" width=800px> </kbd> <br>
-  Picture 1. Entity Relationship Diagram
 </p>
 <br>
 <br>
@@ -42,7 +41,6 @@ First, the modules needed was imported from the library (**os** and **collection
 <br>
 <p align="center">
   <kbd><img src="assets/photo2.jpeg" width=800px> </kbd> <br>
-  Picture 1. Entity Relationship Diagram
 </p>
 <br>
 <br>
@@ -52,7 +50,6 @@ Files that has been categorized then double checked to make sure the categorizat
 <br>
 <p align="center">
   <kbd><img src="assets/photo3.jpeg" width=800px> </kbd> <br>
-  Picture 1. Entity Relationship Diagram
 </p>
 <br>
 <br>
@@ -62,7 +59,6 @@ Next step is to create the files based on category that was created before, to d
 <br>
 <p align="center">
   <kbd><img src="assets/photo4.jpeg" width=800px> </kbd> <br>
-  Picture 1. Entity Relationship Diagram
 </p>
 <br>
 <br>
@@ -72,13 +68,11 @@ Finally, creating loop function to move the files based on their type. To make s
 <br>
 <p align="center">
   <kbd><img src="assets/photo5.jpeg" width=800px> </kbd> <br>
-  Picture 1. Entity Relationship Diagram
 </p>
 <br>
 <br>
 <p align="center">
   <kbd><img src="assets/photo6.jpeg" width=800px> </kbd> <br>
-  Picture 1. Entity Relationship Diagram
 </p>
 <br>
 <br>
@@ -88,7 +82,6 @@ Let's see the final result.
 <br>
 <p align="center">
   <kbd><img src="assets/photo7.jpeg" width=800px> </kbd> <br>
-  Picture 1. Entity Relationship Diagram
 </p>
 <br>
 <br>
