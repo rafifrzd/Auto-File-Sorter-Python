@@ -22,10 +22,10 @@ To tackle this, I look into my old friend Google, and to my surprise, you can ac
 ## **Preparation**
 
 For sorting files in Python, we are going to need several modules, namely:
-* **os** module: **os** is a module in Python that enables us to interact with the operating system. Essentially, we can create files, create directories, and even manage the files and directories itself. Some examples (including what are we going to use) are *os.getcwd()* to handle current directory, *os.mkdir()* to create directory, and *os.rename():*  to rename files (can also be used to place file into their respective folders.
+* **os** module: **os** is a module in Python that enables us to interact with the operating system. Essentially, we can create files, create directories, and even manage the files and directories itself. Some examples (including what are we going to use) are *os.getcwd()* to handle current directory, *os.mkdir()* to create directory, and *os.rename():*  to rename files (can also be used to place file into their respective folders).
 
 * **collections** module: **collections** is a module in Python that helps us organize and work with your data in different ways, such as counting items or make a list where you can easily add or remove items. Examples are:
-  *Counter()* to count how many values a value appear, *OrderDict()* to remember the order of inserted value, and *DefaultDict()* to provide some default values for the key
+  *Counter()* to count how many values a value appear, *OrderDict()* to remember the order of inserted value, and *DefaultDict()* to provide some default values for the key.
 
 <br>
 
